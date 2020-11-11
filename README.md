@@ -61,4 +61,4 @@ I'm Vladislav 👨🏻‍💻 Front-end Web Developer
 | :---------- |:-------------:|
 | https://tlmnnk-english-for-kids.netlify.app/ | https://github.com/tlmnnk/english-for-kids |
 
-[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/movie-search-js.png)](https://tlmnnk-english-for-kids.netlify.app/)
+[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/english-for-kids.png)](https://tlmnnk-english-for-kids.netlify.app/)
