@@ -53,7 +53,7 @@ I'm Vladislav 👨🏻‍💻 Front-end Web Developer
 | :---------- |:-------------:|
 | https://tlmnnk-movie-search.netlify.app/    | https://github.com/tlmnnk/movie-search |
 
-[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/C:\Users\vtoloman\Desktop\movie-search-js.png)](https://tlmnnk-movie-search.netlify.app/)
+[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/movie-search-js.png)](https://tlmnnk-movie-search.netlify.app/)
 #
 ### English-for-kids [![N|Solid](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)](#)
 
@@ -61,4 +61,4 @@ I'm Vladislav 👨🏻‍💻 Front-end Web Developer
 | :---------- |:-------------:|
 | https://tlmnnk-english-for-kids.netlify.app/ | https://github.com/tlmnnk/english-for-kids |
 
-[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/C:\Users\vtoloman\Desktop\movie-search-js.png)](https://tlmnnk-english-for-kids.netlify.app/)
+[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/movie-search-js.png)](https://tlmnnk-english-for-kids.netlify.app/)
