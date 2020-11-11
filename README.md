@@ -1,5 +1,5 @@
 # Hey there!🤗
----
+
 Welcome to my page!
 I'm Vladislav 👨🏻‍💻 Front-end Web Developer
 ### Things I code with
@@ -8,12 +8,19 @@ I'm Vladislav 👨🏻‍💻 Front-end Web Developer
 
 
 ## ⚡️ My Projects⚡️
-#
-#
+
 ### GameQuiz  [![N|Solid](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white)](#)
-#
+
 | Deploy  | Repo  |
 | :---------- |:-------------:|
 | https://tlmnnk-songbird.netlify.app/    | https://github.com/tlmnnk/songbird |
 
-[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/gamesong.png)](#)
+[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/gamesongquiz.png)](https://tlmnnk-songbird.netlify.app)
+#
+### MovieSearch  [![N|Solid](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white)](#)
+#
+| Deploy  | Repo  |
+| :---------- |:-------------:|
+| https://tlmnnk-movie-search-vue.netlify.app/    | https://github.com/tlmnnk/movie-search-vue |
+#
+[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/imdb-top-vue.png)](https://tlmnnk-movie-search-vue.netlify.app)
