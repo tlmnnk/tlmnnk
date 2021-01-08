@@ -14,6 +14,32 @@ I'm Vladislav 👨🏻‍💻 Front-end Web Developer
 
 ## ⚡️ My Projects⚡️
 
+### Medium-like-App (frontend [![N|Solid](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white)](#) & backend [![N|Solid](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](#))  
+
+| Deploy  | Repo  |
+| :---------- |:-------------:|
+| https://gifted-davinci-fea08d.netlify.app/   | https://github.com/tlmnnk/medium-like-app |
+
+| Backend Repo  |
+| :---------- |
+| https://github.com/tlmnnk/medium-app-backend  |
+
+[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/medium-like-app.png)](https://gifted-davinci-fea08d.netlify.app/)
+#
+
+### Notes-App (frontend [![N|Solid](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white)](#) & backend [![N|Solid](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](#))  
+
+| Deploy  | Repo  |
+| :---------- |:-------------:|
+| https://sleepy-dijkstra-8551fa.netlify.app/   | https://github.com/tlmnnk/notes-app-frontend |
+
+| Backend Repo  |
+| :---------- |
+| https://github.com/tlmnnk/notes-app-backend/  |
+
+[![N|Solid](https://github.com/tlmnnk/tlmnnk/blob/main/images/notes-app.png)](https://sleepy-dijkstra-8551fa.netlify.app/)
+#
+
 ### GameQuiz  [![N|Solid](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white)](#)
 
 | Deploy  | Repo  |
